@@ -1,0 +1,5 @@
+SpeechRecognition
+pyttsx3
+pyautogui
+pywhatkit
+googletrans==4.0.0-rc1
